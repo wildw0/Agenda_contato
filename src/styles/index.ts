@@ -17,7 +17,6 @@ export const Container = styled.div`
 
 export const MainContainer = styled.main`
   position: relative;
-  z-index: -1;
   top: 25vh;
   display: grid;
   grid-template-columns: 1fr 1fr;
